@@ -1,0 +1,53 @@
+div.body{
+    margin: auto;
+    
+    width: 900px;
+}
+div.links{
+    float: left;
+    width: 15%;
+}
+div.cambia{
+    border-style: dotted solid;
+    border-left: dotted;
+    border-right: dotted;
+    border-width: 1px;
+    padding-right: 20px;
+    padding-left: 20px;
+    float: right;
+    width: 80%;
+}
+.tituloPag{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 5px;
+    
+}
+span.parque{
+    color: green;
+}
+.sierra{
+    color: goldenrod;
+}
+hr{
+    border-top: dotted 1px;
+}
+h2{
+    color:#82b00f;
+}
+h3{
+    color: #dfae62;
+}
+button{
+    background-color: #cbe783;
+    border: none;
+    width: 100px;
+    height: 50px;
+    
+}
+button:hover{
+    background-color: #84cc84;
+}
+button.selected{
+    background-color: #e5cdb2;
+}
